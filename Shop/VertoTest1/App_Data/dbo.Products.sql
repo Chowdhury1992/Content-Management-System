@@ -1,0 +1,8 @@
+﻿
+
+    DBCC CHECKIDENT (Products, reseed)
+
+
+
+
+
